@@ -1,4 +1,4 @@
 # Discord-Token-Logger-exe
 
-Hello download this file to get token logged:)
-educational purposes.
+Copy the code in your Python edu. And it will work if you press enter.
+
